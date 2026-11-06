@@ -6,7 +6,6 @@
 
 ```sudo apt install -y build-essential```
 
-
 ### build the hello world
 
 ```g++ -o hello hello.cpp```
@@ -17,4 +16,4 @@
 
 # Contributors are as follows:
 # - Aidyn VanDegrift
-# -
+# - Evan Kessler
