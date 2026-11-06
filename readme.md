@@ -1,19 +1,23 @@
-# Our Goal is to install g++
+# Getting started
 
-# The necessary code for the install is
+Install dependencies
 
-### Install G++
+```bash
+sudo apt install -y build-essential
+```
 
-```sudo apt install -y build-essential```
+### Build the hello world
 
-### build the hello world
+```bash
+g++ -o hello hello.cpp
+```
 
-```g++ -o hello hello.cpp```
+# Execute
 
-# execute
+```bash
+./hello
+```
 
-```./hello```
-
-# Contributors are as follows:
-# - Aidyn VanDegrift
-# - Evan Kessler
+## Contributors are as follows:
+ - Aidyn VanDegrift
+ - Evan Kessler
